@@ -1,0 +1,29 @@
+Experiment 1: -----------------
+- regression for afstand
+- hver 5. cm
+
+
+Experiment 2: -----------------
+- Accuracy/cofidence score 
+- 10 billeder
+
+Experiment 3: -----------------
+- varians i samme distance
+- 10 billeder i samme distance
+
+Experiment 4: -----------------
+- Varying light conditions
+- 40, 50, 60, 60 (at angle)
+
+Experiment 5:
+- Grouping of balls	
+	* Colors
+
+Experiment 6: ----------------------
+- Angles
+
+Experiment 7: ----------------------
+- limitation
+10/10 @ 170
+4/10 @ 173
+0/10 @ 180
